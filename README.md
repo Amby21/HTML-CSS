@@ -1,2 +1,4 @@
-# htmls-and-csss
-Repo for HTMLs and CSSs practice
+Hello All,
+This is my first attempt at Github.
+
+Am I late?
